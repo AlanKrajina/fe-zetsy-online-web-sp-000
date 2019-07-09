@@ -51,3 +51,8 @@ h2 {
     margin-inline-end: 0px;
     font-weight: bold;
 }
+
+footer {
+    text-align: right;
+    background: #fff;
+}
